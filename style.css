@@ -1,0 +1,26 @@
+h1{
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   font-style: oblique;
+}
+body{
+    background-color: whitesmoke;
+}
+h4{
+    font-style: italic;
+}
+#camera{
+    border-color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+img:hover{
+    border-radius: 140px;
+}
+img{
+    box-shadow: 0 6px 8px 0 rgba(2,2, 2, 0.2);
+}
